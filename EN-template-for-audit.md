@@ -38,13 +38,33 @@ To include a screen capture, use the sample code below. Your images should be sa
 ![](data-viz-screen-capture.png.png)<br>
 *Figure 1: Screen capture of the data visualization.*
 
-## 3. Conclusion
+### 2.2. Strength 2
+
+Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
+
+**For example:**
+
+As Cairo (2016) argues, a data visualization should be truthful...
+
+## 3. Weaknesses
+
+### 3.1. Weakness 1
+
+Insert text here.
+
+### 3.1. Weakness 2
+
+Insert text here.
+
+## 4. Conclusion
 
 Thank you for reading my report.
 
-## 4. References
+## 5. References
 
-Include a list of your references here. Here's an example:
+Include a list of your references here. Please follow [APA guidelines for references](https://apastyle.apa.org/style-grammar-guidelines/references).
+
+**Here's an example:**
 
 Bounegru, L., & Gray, J. (Eds.). (2021). The Data Journalism Handbook: Towards A Critical Data Practice. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
 
