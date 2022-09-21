@@ -14,7 +14,6 @@ For this assignment, you must write a 1000-1500-word audit/critique of a third-p
 **Here are some useful resources for this assignment:**
 
 * [GitHub's *Basic writing and formatting syntax* page](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [GitHub Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [The template repository for this assignment in case you delete something by mistake](https://github.com/jsmarier/Template-for-the-Audit-of-a-Data-Visualization)
 
 Did you notice how to create a hyperlink? In Markdown, we put the clickable text between square brackets and the actual URL between parentheses.
