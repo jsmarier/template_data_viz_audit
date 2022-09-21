@@ -24,6 +24,11 @@ And to create an unordered list, we simply put a star (`*`) before each item.
 
 Insert text here.
 
+To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
+
+![](data-viz-screen-capture.png)<br>
+*Figure 1: Screen capture of the data visualization.*
+
 ## 2. Strengths
 
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
@@ -31,11 +36,6 @@ Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 ### 2.1. Strength 1
 
 Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
-
-To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
-
-![](data-viz-screen-capture.png)<br>
-*Figure 1: Screen capture of the data visualization.*
 
 ### 2.2. Strength 2
 
