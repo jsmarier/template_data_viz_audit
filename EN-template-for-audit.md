@@ -34,7 +34,7 @@ Use three hashtag symbols (`###`) to create a level 3 heading like this one. Ple
 
 To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
 
-![](data-viz-screen-capture.png.png)<br>
+![](data-viz-screen-capture.png)<br>
 *Figure 1: Screen capture of the data visualization.*
 
 ### 2.2. Strength 2
