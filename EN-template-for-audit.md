@@ -61,7 +61,7 @@ Thank you for reading my report.
 
 ## 5. References
 
-Include a list of your references here. Please follow [APA guidelines for references](https://apastyle.apa.org/style-grammar-guidelines/references).
+Include a list of your references here. Please follow [APA guidelines for references](https://apastyle.apa.org/style-grammar-guidelines/references). Hanging paragraphs aren't required though.
 
 **Here's an example:**
 
