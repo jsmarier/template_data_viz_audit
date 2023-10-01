@@ -43,7 +43,7 @@ Support your claims by citing relevant sources. Please follow [APA guidelines fo
 
 **For example:**
 
-As Cairo (2016) argues, a data visualization should be truthful...
+As Cairo (2016) argues, a data visualization should be truthful....
 
 ## 3. Weaknesses
 
